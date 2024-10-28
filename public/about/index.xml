@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Odesaur</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Odesaur</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>me@example.com (Naut)</managingEditor>
+    <webMaster>me@example.com (Naut)</webMaster>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (Naut)</author>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;Naut@Chimkin ~ $ me -h&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Hiya, I love open source and I use neovim btw &amp;lt;3&#xA;&lt;img src=&#34;http://localhost:1313/caphonkers.jpg&#34; alt=&#34;honker&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
