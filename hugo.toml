@@ -39,7 +39,7 @@ url = "mailto:odesaur@mit.slmail.me"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight = 10
 
 [taxonomies]
