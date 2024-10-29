@@ -14,5 +14,12 @@
       <guid>https://odesaur.github.io/post/</guid>
       <description></description>
     </item>
+    <item>
+      <title>project</title>
+      <link>https://odesaur.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://odesaur.github.io/project/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
