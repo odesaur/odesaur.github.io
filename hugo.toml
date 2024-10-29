@@ -1,4 +1,23 @@
 baseURL = 'https://odesaur.github.io/'
-languageCode = 'en-us'
 title = 'Odesaur'
 theme = 'risotto'
+
+paginate = 3
+languageCode = 'en-us'
+DefaultContentLanguage = "en-us"
+enableInlineShortcodes = true
+
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+favicon = "favicon.ico"
+
+[params.theme]
+palette = "base16-rose-pine"
+
+# Sidebar: about/bio
+[params.about]
+title = "odesaur"
+description = "A terminal themed bio."
+logo_image = "favicon.ico"

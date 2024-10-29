@@ -1,6 +1,8 @@
-+++
-title = 'About'
-+++
+---
+title: 'About'
+button: 'About'
+weight: 2
+---
 
 ```bash
 Naut@Chimkin ~ $ me -h
