@@ -9,46 +9,18 @@
     <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Naut@Chimkin ~ $ me -h&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Hiya, I love open source and I use neovim btw &amp;lt;3&#xA;&lt;img src=&#34;http://localhost:1313/caphonkers.jpg&#34; alt=&#34;honker&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title></title>
       <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/archives/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in&#xA;Shortcodes&lt;/a&gt; for rich&#xA;content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple&#xA;Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,12 +2,14 @@ baseURL = 'https://odesaur.github.io/'
 title = 'Odesaur'
 theme = 'risotto'
 
-paginate = 3
 languageCode = 'en-us'
 DefaultContentLanguage = "en-us"
 enableInlineShortcodes = true
 
 sectionPagesMenu = "main"
+
+[pagination]
+pagerSize = 3
 
 [params]
 noindex = false
@@ -21,3 +23,30 @@ palette = "base16-rose-pine"
 title = "odesaur"
 description = "A terminal themed bio."
 logo_image = "favicon.ico"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/odesaur"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:odesaur@mit.slmail.me"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
