@@ -12,7 +12,7 @@ sectionPagesMenu = "main"
 pagerSize = 3
 
 [params]
-noindex = false
+noindex = true
 favicon = "favicon.ico"
 
 [params.theme]
@@ -50,3 +50,12 @@ series = "series"
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
 unsafe = true
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
