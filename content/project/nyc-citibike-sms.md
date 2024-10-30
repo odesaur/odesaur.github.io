@@ -5,7 +5,6 @@ author = 'Naut'
 description = "Nearby NYC Citibike Stations via SMS"
 +++
 
-# NYC Citibike Stations via SMS
 With a Citibike key and a dumb phone, you no longer need the Citibike app (or a smartphone)! </br>
 
 ```bash

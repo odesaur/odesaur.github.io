@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on Odesaur</title>
-    <link>http://localhost:1313/tags/index/</link>
+    <link>https://odesaur.github.io/tags/index/</link>
     <description>Recent content in Index on Odesaur</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2024 23:33:54 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://odesaur.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>project</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://odesaur.github.io/project/</link>
       <pubDate>Tue, 29 Oct 2024 23:33:54 -0700</pubDate>
-      <guid>http://localhost:1313/project/</guid>
+      <guid>https://odesaur.github.io/project/</guid>
       <description></description>
     </item>
   </channel>
