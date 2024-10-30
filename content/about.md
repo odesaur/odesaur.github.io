@@ -1,5 +1,5 @@
 +++
-description = "fun facts about me"
+description = "Fun facts about me"
 title = 'About'
 button = 'About'
 weight = 2
