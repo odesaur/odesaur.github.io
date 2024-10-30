@@ -1,8 +1,9 @@
----
-title: 'About'
-button: 'About'
-weight: 2
----
++++
+description = "fun facts about me"
+title = 'About'
+button = 'About'
+weight = 2
++++
 
 ```bash
 Naut@Chimkin ~ $ me -h
