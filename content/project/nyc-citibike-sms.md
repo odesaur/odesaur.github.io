@@ -2,6 +2,7 @@
 title = 'NYC Citibike SMS'
 date = '2024-10-29T23:33:54-07:00'
 author = 'Naut'
+description = "Nearby NYC Citibike Stations via SMS"
 +++
 
 # NYC Citibike Stations via SMS
