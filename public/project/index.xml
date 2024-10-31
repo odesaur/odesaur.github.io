@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project on Odesaur</title>
-    <link>https://odesaur.github.io/project/</link>
+    <link>http://localhost:1313/project/</link>
     <description>Recent content in project on Odesaur</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2024 23:33:54 -0700</lastBuildDate>
-    <atom:link href="https://odesaur.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NYC Citibike SMS</title>
-      <link>https://odesaur.github.io/project/nyc-citibike-sms/</link>
+      <link>http://localhost:1313/project/nyc-citibike-sms/</link>
       <pubDate>Tue, 29 Oct 2024 23:33:54 -0700</pubDate>
-      <guid>https://odesaur.github.io/project/nyc-citibike-sms/</guid>
+      <guid>http://localhost:1313/project/nyc-citibike-sms/</guid>
       <description>&lt;p&gt;With a Citibike key and a dumb phone, you no longer need the Citibike app (or a smartphone)! &lt;/br&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;21&lt;/span&gt; St &amp;amp; &lt;span style=&#34;color:#ae81ff&#34;&gt;38&lt;/span&gt; Ave has &lt;span style=&#34;color:#ae81ff&#34;&gt;18&lt;/span&gt; bikes, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; e-bikes, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; docks.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;36&lt;/span&gt; Ave &amp;amp; &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt; St has &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt; bikes, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; e-bikes, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; docks.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;21&lt;/span&gt; St &amp;amp; &lt;span style=&#34;color:#ae81ff&#34;&gt;36&lt;/span&gt; Ave has &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt; bikes, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; e-bikes, &lt;span style=&#34;color:#ae81ff&#34;&gt;11&lt;/span&gt; docks.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/solomonrb/xstreets_to_bikes&#34;&gt;xstreets_to_bikes&lt;/a&gt; Made by &lt;a href=&#34;https://github.com/solomonrb&#34;&gt;@solomonrb&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Telescope</title>
-      <link>https://odesaur.github.io/project/telescope/</link>
+      <link>http://localhost:1313/project/telescope/</link>
       <pubDate>Tue, 29 Oct 2024 13:45:26 -0700</pubDate>
-      <guid>https://odesaur.github.io/project/telescope/</guid>
-      <description>&lt;p&gt;Check out this must-have nvim plugin called &lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34;&gt;telescope.nvim&lt;/a&gt; &lt;/br&gt;&#xA;Made possible by &lt;a href=&#34;https://github.com/tjdevries&#34;&gt;@tjdevries&lt;/a&gt; &lt;/br&gt;&#xA;&lt;img src=&#34;https://odesaur.github.io/telescope.gif&#34; alt=&#34;telescope&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/telescope/</guid>
+      <description>&lt;p&gt;Check out this must-have nvim plugin called &lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34;&gt;telescope.nvim&lt;/a&gt; &lt;/br&gt;&#xA;Made possible by &lt;a href=&#34;https://github.com/tjdevries&#34;&gt;@tjdevries&lt;/a&gt; &lt;/br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/telescope.gif&#34; alt=&#34;telescope&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finch</title>
-      <link>https://odesaur.github.io/project/finch/</link>
+      <link>http://localhost:1313/project/finch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://odesaur.github.io/project/finch/</guid>
+      <guid>http://localhost:1313/project/finch/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-f95&#34; data-lang=&#34;f95&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; big_eq_int (b, i)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;result&lt;/span&gt; (bi)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;type&lt;/span&gt; (big_integer), &lt;span style=&#34;color:#66d9ef&#34;&gt;intent&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(in) : : b&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;integer&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;intent&lt;/span&gt; (in) : : i&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;logical&lt;/span&gt; : : bi&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;integer&lt;/span&gt; : : i0, i1&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;i0 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; modulo (i, base)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;i1 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; i &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; base&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;bi &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; b % digit (&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;i0 .and. &amp;amp; b % digit (&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;i1 .and. &amp;amp;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;all&lt;/span&gt; (b % digit (&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; :&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;or_of_digits) &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;and &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; big_eq_int&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>

@@ -14,3 +14,9 @@ Check out some of the [Posts]({{< ref "/post" >}} "Posts") </br>
 You can learn more [About Me]({{< ref "/about" >}} "About Me") Here </br>
 
 Here are some [Projects]({{< ref "/project" >}} "Project") </br>
+
+
+```bash
+Naut@Chimkin ~ $ odesaur --help
+```
+This is a fun site built solely on Hugo!

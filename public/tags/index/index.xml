@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on Odesaur</title>
-    <link>https://odesaur.github.io/tags/index/</link>
+    <link>http://localhost:1313/tags/index/</link>
     <description>Recent content in Index on Odesaur</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2024 23:33:54 -0700</lastBuildDate>
-    <atom:link href="https://odesaur.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>project</title>
-      <link>https://odesaur.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
       <pubDate>Tue, 29 Oct 2024 23:33:54 -0700</pubDate>
-      <guid>https://odesaur.github.io/project/</guid>
-      <description></description>
+      <guid>http://localhost:1313/project/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Naut@Chimkin ~ $ load project&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/board.png&#34; alt=&#34;board&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

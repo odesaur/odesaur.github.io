@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Odesaur</title>
-    <link>https://odesaur.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Odesaur</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2024 13:04:30 -0700</lastBuildDate>
-    <atom:link href="https://odesaur.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stem Support</title>
-      <link>https://odesaur.github.io/post/stemsup/</link>
-      <pubDate>Tue, 29 Oct 2024 13:04:30 -0700</pubDate>
-      <guid>https://odesaur.github.io/post/stemsup/</guid>
-      <description>&lt;p&gt;Here are some useful YouTube channels that help with&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Discrete Math&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@SawFinMath&#34;&gt;Kimberly Brehm&lt;/a&gt; &lt;/br&gt;&#xA;&lt;img src=&#34;https://odesaur.github.io/SawFinMath.jpg&#34; alt=&#34;SawFinMath&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Linear Algebra&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLL6vlkkoIu3iavx4H2kDsmD-JKczNuMul&#34;&gt;Steam Support&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 29 Oct 2024 12:38:11 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cooking</title>
-      <link>https://odesaur.github.io/post/cooking/</link>
+      <link>http://localhost:1313/post/cooking/</link>
       <pubDate>Tue, 29 Oct 2024 12:38:11 -0700</pubDate>
-      <guid>https://odesaur.github.io/post/cooking/</guid>
-      <description>&lt;p&gt;Here are some cooking recipes from &lt;a href=&#34;https://based.cooking&#34;&gt;based.cooking&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://based.cooking/strawberry-compote/&#34;&gt;Strawberry Compote&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://odesaur.github.io/glass-of-compote.webp&#34; alt=&#34;compote&#34;&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://based.cooking/lasagna/&#34;&gt;Lasagna&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://based.cooking/pix/lasagna.webp&#34; alt=&#34;lasagna&#34;&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Credits to &lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;Luke Smith&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/post/cooking/</guid>
+      <description>&lt;p&gt;Here are some cooking recipes from &lt;a href=&#34;https://based.cooking&#34;&gt;based.cooking&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://based.cooking/strawberry-compote/&#34;&gt;Strawberry Compote&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/glass-of-compote.webp&#34; alt=&#34;compote&#34;&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://based.cooking/lasagna/&#34;&gt;Lasagna&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://based.cooking/pix/lasagna.webp&#34; alt=&#34;lasagna&#34;&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Credits to &lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;Luke Smith&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Freezeria</title>
-      <link>https://odesaur.github.io/post/freezeria/</link>
+      <link>http://localhost:1313/post/freezeria/</link>
       <pubDate>Tue, 29 Oct 2024 02:22:37 -0700</pubDate>
-      <guid>https://odesaur.github.io/post/freezeria/</guid>
-      <description>&lt;p&gt;Hey! Have you played &lt;a href=&#34;https://store.steampowered.com/app/2291760/Papas_Freezeria_Deluxe/&#34;&gt;Papa&amp;rsquo;s Freezeria&lt;/a&gt;?&#xA;&lt;img src=&#34;https://odesaur.github.io/freezeria.jpg&#34; alt=&#34;Freezeria&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/freezeria/</guid>
+      <description>&lt;p&gt;Hey! Have you played &lt;a href=&#34;https://store.steampowered.com/app/2291760/Papas_Freezeria_Deluxe/&#34;&gt;Papa&amp;rsquo;s Freezeria&lt;/a&gt;?&#xA;&lt;img src=&#34;http://localhost:1313/freezeria.jpg&#34; alt=&#34;Freezeria&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finch</title>
-      <link>https://odesaur.github.io/post/finch/</link>
+      <link>http://localhost:1313/post/finch/</link>
       <pubDate>Tue, 29 Oct 2024 02:18:16 -0700</pubDate>
-      <guid>https://odesaur.github.io/post/finch/</guid>
+      <guid>http://localhost:1313/post/finch/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-f95&#34; data-lang=&#34;f95&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; big_eq_int (b, i)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;result&lt;/span&gt; (bi)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;type&lt;/span&gt; (big_integer), &lt;span style=&#34;color:#66d9ef&#34;&gt;intent&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(in) : : b&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;integer&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;intent&lt;/span&gt; (in) : : i&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;logical&lt;/span&gt; : : bi&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;integer&lt;/span&gt; : : i0, i1&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;i0 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; modulo (i, base)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;i1 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; i &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; base&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;bi &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; b % digit (&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;i0 .and. &amp;amp; b % digit (&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;i1 .and. &amp;amp;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;all&lt;/span&gt; (b % digit (&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; :&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;or_of_digits) &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;and &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; big_eq_int&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
