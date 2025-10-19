@@ -5,34 +5,25 @@
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-29T23:33:54-07:00</lastmod>
+    <lastmod>2024-10-29T13:45:26-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2024-10-29T23:33:54-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/nyc-citibike-sms/</loc>
-    <lastmod>2024-10-29T23:33:54-07:00</lastmod>
+    <lastmod>2024-10-29T13:45:26-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/</loc>
-    <lastmod>2024-10-29T23:33:54-07:00</lastmod>
+    <lastmod>2024-10-29T13:45:26-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-29T23:33:54-07:00</lastmod>
+    <lastmod>2024-10-29T13:45:26-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/telescope/</loc>
     <lastmod>2024-10-29T13:45:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/cooking/</loc>
-    <lastmod>2024-10-29T12:38:11-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-10-29T12:38:11-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/freezeria/</loc>
     <lastmod>2024-10-29T02:22:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/finch/</loc>
-    <lastmod>2024-10-29T02:18:16-07:00</lastmod>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-10-29T02:22:37-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -40,8 +31,6 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/project/finch/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url>
