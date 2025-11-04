@@ -2,7 +2,7 @@
 description = "Fun facts about me"
 title = 'About'
 button = 'About'
-weight = 2
+weight = 30
 +++
 
 ```bash

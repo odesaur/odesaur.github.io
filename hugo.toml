@@ -18,10 +18,9 @@ favicon = "favicon.ico"
 [params.theme]
 palette = "base16-rose-pine"
 
-# Sidebar: about/bio
 [params.about]
 title = "odesaur"
-description = "A terminal themed bio."
+description = "Köttbullar Enjoyer"
 logo_image = "favicon.ico"
 
 [[params.socialLinks]]
@@ -40,7 +39,7 @@ url = "mailto:odesaur@mit.slmail.me"
     identifier = "about"
     name = "About"
     url = "about/"
-    weight = 10
+    weight = 30
 
 [taxonomies]
 category = "categories"

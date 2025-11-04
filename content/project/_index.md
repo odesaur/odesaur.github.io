@@ -4,6 +4,7 @@ title = "project"
 author = "Naut"
 description = "Some interesting projects"
 tags = ["index"]
+weight = 10
 +++
 
 ```bash
